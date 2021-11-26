@@ -36,3 +36,20 @@ jjjjjj
 
 ![测试本地图片.PNG](https://i.loli.net/2021/11/26/7krNHL24I6vdSac.png)
 
+测试插入代码段
+
+```c
+#include<stdio>
+#include<stlib.h>
+int main()
+{
+printf("hhhhh");
+return 0;
+}
+```
+
+测试插入命令
+
+```bash
+sudo apt-get install git
+```
