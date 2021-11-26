@@ -32,4 +32,4 @@ jjjjjj
 >> 京津冀哦
 >>> u和his吃完
 
-我们可以将所有过程项目打包上传到[GIRHUB](https://github.com/gxl-dot?tab=respositories,"GitHub 官方网站i")进行托管
+我们可以将所有过程项目打包上传到[GIRHUB](https://github.com/gxl-dot?tab=respositoriies "GitHub 官方网站")进行托管
